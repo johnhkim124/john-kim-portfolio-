@@ -1,0 +1,10 @@
+body {
+  height: 100%;
+}
+
+.App {
+  min-height: 100%;
+  background-color: rgba(243, 243, 243, 0.726);
+  position: relative;
+  font-family: "Playfair Display", serif;
+}

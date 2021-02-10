@@ -1,0 +1,28 @@
+.contact-info {
+  border: 1px solid black;
+  display: flex;
+}
+
+.contact-title-div {
+  text-align: center;
+}
+
+.contact-title-div h2 {
+  margin: 40px;
+}
+
+.contact-content-div {
+  display: flex;
+  justify-content: center;
+}
+
+.contact-info-div {
+  display: flex;
+  flex-direction: column;
+  width: 30%;
+  padding: 30px;
+}
+
+.contact-img-div {
+  width: 30%;
+}
