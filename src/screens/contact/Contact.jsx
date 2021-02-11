@@ -9,7 +9,7 @@ const Contact = () => {
       </div>
 
       <div className="contact-content-div">
-        <div className="contact-info contact-img-div">img</div>
+        {/* <div className="contact-info contact-img-div">img</div> */}
         <div className="contact-info contact-info-div">
           <div>
             <a href="johnhkim124@gmail.com">

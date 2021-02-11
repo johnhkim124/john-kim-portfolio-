@@ -1,10 +1,17 @@
+.contact-container a {
+  color: rgba(201, 9, 9, 0.692);
+  font-size: 20px;
+}
+
 .contact-info {
-  border: 1px solid black;
+  /* border: 1px solid black; */
   display: flex;
+  text-align: center;
 }
 
 .contact-title-div {
   text-align: center;
+  color: rgba(201, 9, 9, 0.692);
 }
 
 .contact-title-div h2 {

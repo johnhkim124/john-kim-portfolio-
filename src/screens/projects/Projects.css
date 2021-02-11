@@ -13,7 +13,7 @@
   border: 1px rgb(206, 206, 206) solid;
   border-radius: 4px;
   background-color: rgba(255, 255, 255, 0.692);
-  box-shadow: 2px 2px 2px rgb(160, 160, 160);
+  box-shadow: 3px 3px 3px rgba(22, 22, 22, 0.788);
 }
 
 .main-container img {

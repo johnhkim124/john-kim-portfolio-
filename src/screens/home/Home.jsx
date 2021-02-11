@@ -24,7 +24,6 @@ const Home = () => {
                 <li>JavaScript</li>
                 <li>jQuery</li>
                 <li>React</li>
-                <li>React</li>
                 <li>PostgreSQL + SQL</li>
                 <li>Ruby</li>
                 <li>Rails</li>
