@@ -45,6 +45,7 @@
 .profile-description-div p {
   font-size: 16px;
   padding: 10px;
+  letter-spacing: 2px;
 }
 
 .resume-div {
@@ -53,6 +54,14 @@
   text-align: center;
   background-color: rgb(228, 228, 228);
   width: 100%;
+  padding: 20px;
+}
+
+.resume-div span {
+  font-size: 40px;
+  color: rgba(201, 9, 9, 0.692);
+  font-weight: 600;
+  letter-spacing: 1px;
 }
 
 .resume-div a {
@@ -76,6 +85,7 @@
   color: rgba(192, 0, 0, 0.733);
   font-weight: 600;
   margin-top: 20px;
+  letter-spacing: 1px;
 }
 
 .soft-skills-div p {
