@@ -29,12 +29,14 @@ const About = () => {
         </div>
       </div>
       <div className="resume-div">
-        <span>Resume</span>
-        <a href="https://drive.google.com/file/d/1QGr_m13pSwrrwcrrzT9M8gQSbGt3htv2/view">
+        <span>
+          <a href="https://docdro.id/m9WhMT4">Resume</a>
+        </span>
+        <a href="https://docdro.id/m9WhMT4">
           <svg
             xmlns="http://www.w3.org/2000/svg"
-            width="16"
-            height="16"
+            width="32"
+            height="32"
             fill="currentColor"
             class="bi bi-journal-plus"
             viewBox="0 0 16 16"
