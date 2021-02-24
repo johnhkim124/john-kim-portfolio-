@@ -19,11 +19,11 @@ const About = () => {
             growth-focused, and adaptable, is what made me a chef. It pushed me
             to wanting to learn something new everyday. Just like learning a new
             recipe. I apply those same tools to learning a new language or
-            concept in a every changing tech field. I've worked with teams of
+            concept in an ever changing tech field. I've worked with teams of
             cooks to perfect a craft through repetition and to create a
             beautiful product. This has carried over to full stack teams to
             produce a working polished product with the client in mind .I am
-            looking to join a company/team to grow with and help grow as a
+            looking to join a company/team to grow with as a
             Software Engineer.
           </p>
         </div>

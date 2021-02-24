@@ -4,20 +4,22 @@
   flex-wrap: wrap;
   height: 100%;
   background-color: rgba(201, 9, 9, 0.692);
+  
 }
 
-.main-container a {
+.project-link-divs {
   display: flex;
   margin: 30px;
-  width: 50%;
+  width: 70%;
   border: 1px rgb(206, 206, 206) solid;
   border-radius: 4px;
   background-color: rgba(255, 255, 255, 0.692);
   box-shadow: 3px 3px 3px rgba(22, 22, 22, 0.788);
+  text-decoration: none;
 }
 
 .main-container img {
-  width: 60%;
+  width: 500px;
 }
 
 .project-child {
@@ -40,4 +42,14 @@
 
 .description-div p {
   color: rgb(138, 138, 138);
+}
+
+.redirect-buttons{
+  color: rgba(192, 0, 0, 0.733); 
+  margin: 10px; 
+  border-radius: 4px; 
+}
+
+.redirect-buttons:hover{
+  background-color: rgb(138, 138, 138);
 }
