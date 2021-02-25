@@ -49,13 +49,12 @@ const About = () => {
       <div className="soft-skills-container">
         <div className="soft-skills-div">
           <h1>Learner</h1>
-          <p>I've always had the curiosity and joy for learning new things.</p>
+          <p>I've always had the curiosity and joy for learning new things. Always learning one step at a time.</p>
         </div>
         <div className="soft-skills-div">
           <h1>Team Player</h1>
           <p>
-            Worked as a team with people to deliver a beautiful satisfying
-            product.
+            Always striving to help as a team. 
           </p>
         </div>
         <div className="soft-skills-div">
