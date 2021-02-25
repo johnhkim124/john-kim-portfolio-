@@ -5,7 +5,7 @@ const Projects = () => {
   return (
     <div className="main-container">
       
-      <a className="project-link-divs" href="https://sleepy-lewin-9c4a68.netlify.app/">
+      <div className="project-container">
         <img
           className="projects-img project-child cool-ridings-img "
           src="https://puu.sh/Hez96/816e7ca86d.png"
@@ -21,10 +21,10 @@ const Projects = () => {
           <a  href="https://github.com/jpacheco008/Cool-Ridings"><button className="redirect-buttons">GitHub</button></a>
           <a  href="https://sleepy-lewin-9c4a68.netlify.app"><button className="redirect-buttons">Live Link</button></a>
         </div>
-      </a>
+      </div>
       
 
-      <a className="project-link-divs" href="https://determined-jackson-554ec5.netlify.app/">
+      <div className="project-container">
         <img
           className="projects-img project-child chippy-img"
           src="https://puu.sh/Hezmq/7fb1b2038d.png"
@@ -39,8 +39,8 @@ const Projects = () => {
           <a  href="https://github.com/johnhkim124/Chippy"><button className="redirect-buttons">GitHub</button></a>
           <a  href="https://determined-jackson-554ec5.netlify.app/"><button className="redirect-buttons">Live Link</button></a>
         </div>
-      </a>
-      <a className="project-link-divs" href="https://eager-lovelace-87276f.netlify.app/">
+      </div>
+      <div className="project-container">
         <img
           className="projects-img project-child fetched-img"
           src="https://puu.sh/Hez22/3db2649e11.png"
@@ -57,8 +57,8 @@ const Projects = () => {
           <a  href="https://github.com/johnhkim124/fetched"><button className="redirect-buttons">GitHub</button></a>
           <a  href="https://eager-lovelace-87276f.netlify.app"><button className="redirect-buttons">Live Link</button></a>
         </div>
-      </a>
-      <a className="project-link-divs" href="https://johnhkim124.github.io/Recipe-project-1/">
+      </div>
+      <div className="project-container">
         <img
           className="projects-img project-child recipe-report-img"
           src="https://puu.sh/Hezqq/8e789d8b7b.jpg"
@@ -75,8 +75,10 @@ const Projects = () => {
           <a  href="https://github.com/johnhkim124/Recipe-project-1"><button className="redirect-buttons">GitHub</button></a>
           <a  href="https://johnhkim124.github.io/Recipe-project-1/"><button className="redirect-buttons">Live Link</button></a>
         </div>
-      </a>
+      </div>
+      
     </div>
+  
   );
 };
 

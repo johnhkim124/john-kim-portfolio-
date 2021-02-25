@@ -7,7 +7,7 @@ const Contact = () => {
       <div className="contact-title-div">
         <h2>Contact Me</h2>
       </div>
-
+      
       <div className="contact-content-div">
         {/* <div className="contact-info contact-img-div">img</div> */}
         <div className="contact-info contact-info-div">

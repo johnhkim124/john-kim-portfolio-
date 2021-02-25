@@ -95,8 +95,8 @@ const Home = () => {
             </div>
           </div>
         </div>
-        <div className="apps-title-div">Apps</div>
-        <div className="home-divs home-projects">
+        {/* <div className="apps-title-div">Apps</div> */}
+        {/* <div className="home-divs home-projects">
           <div className="projects-div-links">
             <a href="https://determined-jackson-554ec5.netlify.app/">
               <img
@@ -133,7 +133,7 @@ const Home = () => {
               />
             </a>
           </div>
-        </div>
+        </div> */}
         {/* <div className="home-divs redirect">
           <div className="about-home-div">
             <Link>About</Link>

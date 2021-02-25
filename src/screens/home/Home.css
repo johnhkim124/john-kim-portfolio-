@@ -1,3 +1,7 @@
+.home-div-container{
+  min-height: 100vh; 
+}
+
 .home-header {
   background-color: rgba(201, 9, 9, 0.692);
   height: 500px;
@@ -6,6 +10,8 @@
   justify-content: center;
   align-items: center;
   color: rgba(255, 255, 255, 0.863);
+  background-image: url();
+  background-repeat: no-repeat;
 }
 
 .home-header h2 {
@@ -61,7 +67,7 @@
 }
 
 .home-tech-stack {
-  height: 300px;
+  
   background-color: rgba(0, 0, 0, 0.932);
 }
 
